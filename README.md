@@ -4,6 +4,6 @@ However the idea is to create RESTful application, that would send data to the s
 
 
 ![Alt text](https://raw.githubusercontent.com/isereb/Sensor-Management-System/master/sms.png "SMS Screenshot")
-Please feel free to start and go through the code.
+Please feel free to run it on tomcat and go through the code.
 
 Made by Ilya Serebryannikov
